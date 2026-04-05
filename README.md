@@ -7,13 +7,16 @@
 **[Try it live](https://concurrency-kitchen.vercel.app)**
 
 ### Landing Page
-![Landing Page](public/screenshots/landing.png)
+![Landing Page](public/screenshots/1-landing.png)
 
 ### Skill Tree — 17 Topics Across 7 Tiers
-![Skill Tree](public/screenshots/skill-tree.png)
+![Skill Tree](public/screenshots/2-skill-tree.png)
 
-### SVG Concept Diagrams — Visual Learning
-![Topic Diagram](public/screenshots/topic-diagram.png)
+### Topic Page — SVG Diagrams & Kitchen Analogies
+![Topic Page](public/screenshots/3-topic-diagram.png)
+
+### Interactive Code Stepper with Thread Indicators
+![Code Stepper](public/screenshots/4-code-stepper.png)
 
 ---
 

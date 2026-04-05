@@ -6,6 +6,15 @@
 
 **[Try it live](https://concurrency-kitchen.vercel.app)**
 
+### Landing Page
+![Landing Page](public/screenshots/landing.png)
+
+### Skill Tree — 17 Topics Across 7 Tiers
+![Skill Tree](public/screenshots/skill-tree.png)
+
+### SVG Concept Diagrams — Visual Learning
+![Topic Diagram](public/screenshots/topic-diagram.png)
+
 ---
 
 ## What is this?
